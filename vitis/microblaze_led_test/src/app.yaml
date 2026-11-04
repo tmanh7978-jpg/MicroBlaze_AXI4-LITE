@@ -1,0 +1,4 @@
+domain_path: D:\project_final_soc\vitis\microblaze_led_platform\export\microblaze_led_platform\sw\standalone_microblaze_0
+app_src_dir: D:\thegioiute\Phan_Mem\2025.1.1\Vitis\data\embeddedsw\lib\sw_apps\empty_application
+template: empty_application
+lang: c

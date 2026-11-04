@@ -1,0 +1,24 @@
+# Vivado - generated files
+.Xil/
+*.cache/
+*.gen/
+*.runs/
+*.sim/
+*.hw/
+*.ip_user_files/
+
+# Logs
+*.log
+*.jou
+*.str
+*.wdb
+
+# Vitis build outputs
+.metadata/
+Debug/
+Release/
+build/
+
+# Temporary files
+*.tmp
+*.bak

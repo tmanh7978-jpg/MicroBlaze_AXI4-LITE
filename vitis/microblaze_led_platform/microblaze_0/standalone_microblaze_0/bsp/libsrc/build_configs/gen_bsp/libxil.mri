@@ -1,0 +1,4 @@
+create libxil.a
+addlib D:/project_final_soc/vitis/microblaze_led_platform/microblaze_0/standalone_microblaze_0/bsp/libsrc/build_configs/gen_bsp/libsrc/bram/src/libbram.a
+save
+end

@@ -1,0 +1,6 @@
+axi_lite_slave_0:
+- axi_lite_slave
+- None
+microblaze_0_local_memory_dlmb_bram_if_cntlr:
+- lmb_bram_if_cntlr
+- bram
